@@ -1,0 +1,88 @@
+.w-20{
+  width:20%;
+}
+.w-30{
+  width: 30%;
+}
+.logo-text{
+  width:110px;
+}
+.bi{
+  margin-right: 15px;
+}
+.ba{
+  margin-right:4px;
+  margin-left: 0px;
+}
+.story{
+  height: 100px;
+}
+.DP{
+  width:30px;
+  margin-right: 3px;
+  margin-top: 10px;
+}
+.name{
+  margin-top: 12px;
+  font-size: 15px;
+   font-weight:bold;
+}
+.image{
+  width:400px;
+  margin: 10px;
+}
+.suggestions .DP{
+  margin-top:0px !important;
+  width:45px;
+}
+.suggestions ,ms-auto{
+font-weight:500;
+}
+.text{
+  color:#8e8e8e;
+}
+.story-DP{
+  width:75px;
+  height:75px;
+}
+.text-story{
+  font-size:13px;
+}
+.story-ring {
+  width: 81px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.story-no-ring {
+  width: 81px;
+  height: 80px;
+  border-radius: 50%;
+  background: #d2d2d2; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.storyies{
+  width: 23%;
+  max-height:80%;   
+  margin: 30px;
+  border-radius:10px;
+}
+.close{
+margin-bottom:600px;
+}
+.scroll{
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  width:80%;
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+

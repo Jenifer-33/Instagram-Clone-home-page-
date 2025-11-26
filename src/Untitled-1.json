@@ -1,0 +1,18 @@
+{
+          "id": 102,
+          "image": "src/assets/pasta.jpeg",
+          "caption": "Homemade pasta 🍝 #foodie",
+          "likes": 180,
+          "comments": [
+            { "id": 3, "user": "foodlover_01", "comment": "Looks delicious!" }
+          ],
+          "createdAt": "2025-11-18T15:45:00Z"
+        }
+        {
+          "id": 202,
+          "image": "src/assets/coffee.jpg",
+          "caption": "Morning coffee vibes ☕ #coffeelover",
+          "likes": 210,
+          "comments": [],
+          "createdAt": "2025-11-18T08:10:00Z"
+        }
