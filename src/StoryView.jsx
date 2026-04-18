@@ -8,7 +8,7 @@ const navigate=useNavigate()
 
     const [story,setStory]=useState(null);
      useEffect(() => {
-    fetch(`http://localhost:4000/stories/${id}`)
+    fetch(`${import.meta.env.VITE_API_URL}/stories/${id}`)
       .then(data => data.json())
       .then(data => {     
           data.image = "/" + data.image;

@@ -4,14 +4,14 @@
       "id": 1,
       "username": "d_j2005",
       "fullName": "Divya Jenifer",
-      "profilePicture": "src/assets/profile1.jpeg",
+      "profilePicture": "public/assets/profile1.jpeg",
       "bio": "Photography lover 📸 | Traveler ✈️ | Foodie 🍕",
       "followers": 1200,
       "following": 300,
       "posts": [
         {
           "id": 101,
-          "image": "src/assets/profile3.jpg",
+          "image": "public/assets/profile3.jpg",
           "caption": "Matching with the Roses #flower #nature",
           "likes": 350,
           "comments": [
@@ -26,14 +26,14 @@
       "id": 2,
       "username": "alexa_rider",
       "fullName": "Alexa Rider",
-      "profilePicture": "src/assets/profile2.jpeg",
+      "profilePicture": "public/assets/profile2.jpeg",
       "bio": "Adventure seeker 🏔️ | Coffee addict ☕ | Blogger",
       "followers": 900,
       "following": 400,
       "posts": [
         {
           "id": 201,
-          "image": "src/assets/sunset.jpg",
+          "image": "public/assets/sunset.jpg",
           "caption": "Sunset by the lake 🌅 #nature",
           "likes": 420,
           "comments": [
@@ -48,14 +48,14 @@
       "id": 3,
       "username": "@iambeingsarcastic",
       "fullName": "sarcasim",
-      "profilePicture": "src/assets/noprofile.jpg",
+      "profilePicture": "public/assets/noprofile.jpg",
       "bio": "blast",
       "followers": 1200,
       "following": 300,
       "posts": [
         {
           "id": 301,
-          "image": "src/assets/memepost2.jpeg",
+          "image": "public/assets/memepost2.jpeg",
           "caption": "not so cute📸:)",
           "likes": 350,
           "comments": [
@@ -70,14 +70,14 @@
       "id": 4,
       "username": "Suriya.rolex_1980",
       "fullName": "Suriya",
-      "profilePicture": "src/assets/newprofile1.jpeg",
+      "profilePicture": "public/assets/newprofile1.jpeg",
       "bio": "Photography lover 📸 | Traveler ✈️ | Foodie 🍕",
       "followers": 1200,
       "following": 300,
       "posts": [
         {
           "id": 101,
-          "image": "src/assets/coffee.jpeg",
+          "image": "public/assets/coffee.jpeg",
           "caption": "Morning coffee vibes ☕ #coffeelover",
           "likes": 350,
           "comments": [
@@ -92,14 +92,14 @@
       "id": 5,
       "username": "geetha_113",
       "fullName": "Geetha",
-      "profilePicture": "src/assets/newprofile6.jpeg",
+      "profilePicture": "public/assets/newprofile6.jpeg",
       "bio": "Photography lover 📸 | Traveler ✈️ | Foodie 🍕",
       "followers": 1200,
       "following": 300,
       "posts": [
         {
           "id": 101,
-          "image": "src/assets/pasta.jpeg",
+          "image": "public/assets/pasta.jpeg",
           "caption": "Homemade pasta 🍝 #foodie",
           "likes": 350,
           "comments": [
@@ -118,7 +118,7 @@
       "id": 1,
       "username": "d_j2005",
       "fullName": "Divya Jenifer",
-      "profilePicture": "src/assets/profile1.jpeg",
+      "profilePicture": "public/assets/profile1.jpeg",
       "bio": "Photography lover 📸 | Traveler ✈️ | Foodie 🍕",
       "followers": 1200,
       "following": 300
@@ -129,28 +129,28 @@
     "id": 1,
     "username": "travel_with_anu",
     "fullName": "Anu Sharma",
-    "profilePicture": "src/assets/noprofile.jpg",
+    "profilePicture": "public/assets/noprofile.jpg",
     "commonFollowers": 12
   },
   {
     "id": 2,
     "username": "foodie_guy",
     "fullName": "Rahul Mehta",
-    "profilePicture": "src/assets/profile4.jpg",
+    "profilePicture": "public/assets/profile4.jpg",
     "commonFollowers": 8
   },
   {
     "id": 3,
     "username": "creative_minds",
     "fullName": "Sneha Art",
-    "profilePicture": "src/assets/profile5.jpg",
+    "profilePicture": "public/assets/profile5.jpg",
     "commonFollowers": 5
   },
   {
     "id": 4,
     "username": "sneha_holic",
     "fullName": "Sneha Art",
-    "profilePicture": "src/assets/noprofile.jpg",
+    "profilePicture": "public/assets/noprofile.jpg",
     "commonFollowers": 5
   }
 ],
@@ -159,8 +159,8 @@
       "id": 1,
       "username": "d_j2005",
       "fullName": "Divya Jenifer",
-      "profilePicture": "src/assets/profile1.jpeg",
-      "image": "src/assets/story1.jpg",
+      "profilePicture": "public/assets/profile1.jpeg",
+      "image": "public/assets/story1.jpg",
       "storyStatus":true
   },
   
@@ -168,56 +168,56 @@
       "id": 2,
       "username": "alexa_rider",
       "fullName": "Alexa Rider",
-      "profilePicture": "src/assets/profile2.jpeg",
-      "image":"src/assets/story5.jpg",
+      "profilePicture": "public/assets/profile2.jpeg",
+      "image":"public/assets/story5.jpg",
       "storyStatus":true
   },
    {
       "id": 3,
       "username": "vijay_005",
       "fullName": "vijay",
-      "profilePicture": "src/assets/newprofile2.jpeg",
-      "image":"src/assets/story2.jpg",
+      "profilePicture": "public/assets/newprofile2.jpeg",
+      "image":"public/assets/story2.jpg",
       "storyStatus":true
   },
    {
       "id": 4,
       "username": "Suriya.rolex_1980",
       "fullName": "Suriya",
-      "profilePicture": "src/assets/newprofile1.jpeg",
-      "image":"src/assets/story4.jpg",
+      "profilePicture": "public/assets/newprofile1.jpeg",
+      "image":"public/assets/story4.jpg",
       "storyStatus":true
   },
   {
       "id": 5,
       "username": "geetha_113",
       "fullName": "Geetha",
-      "profilePicture": "src/assets/newprofile5.jpeg",
-      "image":"src/assets/story3.jpg",
+      "profilePicture": "public/assets/newprofile5.jpeg",
+      "image":"public/assets/story3.jpg",
       "storyStatus":false
   },
   {
       "id": 6,
       "username": "peter-the-doc",
       "fullName": "Peter",
-      "profilePicture": "src/assets/newprofile3.jpeg",
-      "image":"src/assets/story10.jpg",
+      "profilePicture": "public/assets/newprofile3.jpeg",
+      "image":"public/assets/story10.jpg",
       "storyStatus":false
   },
   {
       "id": 7,
       "username": "kavi@1902",
       "fullName": "kavitha",
-      "profilePicture": "src/assets/newprofile5.jpeg",
-      "image":"src/assets/story9.jpg",
+      "profilePicture": "public/assets/newprofile5.jpeg",
+      "image":"public/assets/story9.jpg",
       "storyStatus":false
   },
     {
       "id": 8,
       "username": "pookie_004",
       "fullName": "Steve",
-      "profilePicture": "src/assets/newprofile4.jpeg",
-      "image":"src/assets/story7.jpg",
+      "profilePicture": "public/assets/newprofile4.jpeg",
+      "image":"public/assets/story7.jpg",
       "storyStatus":false
   }
 ]
