@@ -4,7 +4,7 @@
       "id": 1,
       "username": "d_j2005",
       "fullName": "Divya Jenifer",
-      "profilePicture": "public/assets/profile1.jpeg",
+      "profilePicture": "https://instagram-clone-home-page.vercel.app/assets/profile1.jpeg", 
       "bio": "Photography lover 📸 | Traveler ✈️ | Foodie 🍕",
       "followers": 1200,
       "following": 300,
